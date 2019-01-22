@@ -1,0 +1,40 @@
+Script started on 2018-01-24 16:30:15-0800
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment0[004741853@csusb.edu@jb358-1 assignment0]$ exitssh jb358-1[7Pexitvim list.h[6Pexitssh jb358-1[7Pexit[Kg++ list_test.cpp
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment0[004741853@csusb.edu@jb358-1 assignment0]$ ./a.out
+list is empty
+
+-63.81
+-22.6
+-1.394
+11.42
+12.19
+15.27
+54.15
+54.15
+60.17
+83.4
+
+-63.81 is in the list
+10 is not on the list
+0 is not on the list
+100 is not on the list
+54.15 is in the list
+83.4 is in the list
+
+12.19 is in the list
+12.19 was deleted
+27.33 is not on the list
+
+-63.81
+-22.6
+-1.394
+11.42
+15.27
+54.15
+54.15
+60.17
+83.4
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment0[004741853@csusb.edu@jb358-1 assignment0]$ exit
+exit
+
+Script done on 2018-01-24 16:30:37-0800

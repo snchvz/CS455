@@ -1,0 +1,31 @@
+Script started on 2018-02-04 19:33:05-0800
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment1[004741853@csusb.edu@jb358-1 assignment1]$ g++ dlist_test.cpp
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment1[004741853@csusb.edu@jb358-1 assignment1]$ ./a.out
+-63.81
+-22.6
+-1.394
+11.42
+12.19
+15.27
+54.15
+54.15
+60.17
+83.4
+
+12.19 is in the list
+12.19 was deleted
+27.33 is not in the list
+
+-63.81
+-22.6
+-1.394
+11.42
+15.27
+54.15
+54.15
+60.17
+83.4
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment1[004741853@csusb.edu@jb358-1 assignment1]$ exc[Kit
+exit
+
+Script done on 2018-02-04 19:33:25-0800

@@ -1,0 +1,32 @@
+Script started on 2018-02-11 18:51:22-0800
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment2[004741853@csusb.edu@jb358-1 assignment2]$ g++ lines_ofc[K_code.cpp
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment2[004741853@csusb.edu@jb358-1 assignment2]$ ./a.out
+assignment 1
+File: list.h
+Total number of lines: 393
+Total number of classes: 6
+Included classes: 
+class List
+12
+class Dlist: public List<T>
+8
+class Link
+3
+class Dlink
+3
+class List_iterator
+6
+class Dlist_iterator
+6
+
+assignment 2
+File: lines_of_code.cpp
+Total number of lines: 94
+Total number of classes: 1
+Included classes: 
+class Loc {
+6
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment2[004741853@csusb.edu@jb358-1 assignment2]$ exit
+exit
+
+Script done on 2018-02-11 18:51:42-0800

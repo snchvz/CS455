@@ -1,0 +1,29 @@
+Script started on 2018-02-18 18:57:56-0800
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment3[004741853@csusb.edu@jb358-1 assignment3]$ g++ test.cpp
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment3[004741853@csusb.edu@jb358-1 assignment3]$ ./a.out
+Given data: 
+(200, 30) 
+(800, 118.7) 
+(260, 13) 
+(450, 40.8) 
+(1500, 144.6) 
+(450, 26.6) 
+(1850, 95.5) 
+(900, 77.6) 
+(1650, 140.6) 
+(1400, 140.8) 
+correlation: 0.846936
+correlation squared: 0.717301
+
+Custom data: 
+(334.1, 44) 
+(355.66, 39) 
+(115.9, 30) 
+(743.2, 58.3) 
+(192.3, 33.6) 
+correlation: 0.980013
+correlation squared: 0.960425
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment3[004741853@csusb.edu@jb358-1 assignment3]$ exit
+exit
+
+Script done on 2018-02-18 18:58:19-0800

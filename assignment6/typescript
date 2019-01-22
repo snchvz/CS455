@@ -1,0 +1,14 @@
+Script started on 2018-03-12 15:58:50-0700
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment6[004741853@csusb.edu@jb358-1 assignment6]$ g++ test.cpp
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment6[004741853@csusb.edu@jb358-1 assignment6]$ ./a.out
+Test case 1: 
+beta0: -22.5524
+beta1: 1.72793
+UPI 70 percent: 874.401
+LPI 70 percent: 414.458
+UPI 90 percent: 1030.48
+LPI 90 percent: 258.376
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment6[004741853@csusb.edu@jb358-1 assignment6]$ exit
+exit
+
+Script done on 2018-03-12 15:59:08-0700

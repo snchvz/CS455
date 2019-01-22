@@ -1,0 +1,18 @@
+Script started on 2018-03-04 17:27:06-0800
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment5[004741853@csusb.edu@jb358-1 assignment5]$ exitssh jb358-1[7Pexit./a.outg++ test.cpp
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment5[004741853@csusb.edu@jb358-1 assignment5]$ g++ test.cpp[8Pexitssh jb358-1[7Pexit./a.outg++ test.cpp[5P./a.out
+Test case 1: 
+312.375
+500
+1.74831
+-46.1274
+
+Test case 2: 
+383.625
+500
+1.41695
+-43.5767
+]0;004741853@csusb.edu@jb358-1:~/sanchezandrew-cse455/cse455/assignment5[004741853@csusb.edu@jb358-1 assignment5]$ exit
+exit
+
+Script done on 2018-03-04 17:27:20-0800
